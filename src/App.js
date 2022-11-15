@@ -7,7 +7,7 @@ import ExpenseTotal from './components/ExpenseTotal';
 import ExpenseList from './components/ExpenseList';
 import AddExpenseForm from './components/AddExpenseForm';
 import { AppProvider } from './context/AppContext';
-// import background from '../src/images/th.jpg'
+// import background from '../src/images/th.jpg';
 
 const App = () => {
 	return (
@@ -46,5 +46,7 @@ const App = () => {
 		
 	);
 };
+
+
 
 export default App;
