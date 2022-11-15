@@ -19,7 +19,7 @@ This budget tracker app was created using React
 The app is deployed in https://pcinsoftware.com
 The idea for this project was a simple but very useful application that was properly centered and styled with bootstrap.
 Will be working to incorporate further styles to the React Boostrap in the app since I learned it takes a little 
-more than to work with normal boostrap and css. 
+more to work with normal boostrap and css. 
 
 Future Enhancements: 
 (*) Add a timestamp to each of the expenses when they are added.
